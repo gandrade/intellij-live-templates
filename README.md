@@ -1,1 +1,1 @@
-# IntelliJ Live Templates
+# :bookmark: IntelliJ Live Templates
